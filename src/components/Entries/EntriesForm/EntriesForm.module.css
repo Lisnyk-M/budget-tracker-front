@@ -1,0 +1,10 @@
+.formWrapper {
+    width: 320px;
+}
+
+.loginForm {
+    text-align: center;
+    padding: 10px 60px;
+    border: 1px solid #888888;
+    border-radius: 5px;
+}

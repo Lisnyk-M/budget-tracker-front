@@ -1,0 +1,29 @@
+.item {
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	margin: 2px;
+}
+
+.title {
+	padding: 0 10px;
+	margin: 0;
+}
+
+.wrapperTwoP {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 200px;
+}
+
+.wrapperTwoButtons {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100px;
+}
+
+.buttonWrapper {
+	margin: 0 2px;
+}

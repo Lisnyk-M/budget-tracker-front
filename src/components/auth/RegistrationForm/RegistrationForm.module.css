@@ -1,0 +1,13 @@
+.formWrapper {
+    width: 320px;
+    min-height: 600px;
+}
+
+.loginForm {
+    /* display: flex;
+    flex-direction: column; */
+    text-align: center;
+    padding: 10px 60px;
+    border: 1px solid #888888;
+    border-radius: 5px;
+}

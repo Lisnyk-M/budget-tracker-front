@@ -1,0 +1,13 @@
+.entryButton {
+    padding: 6px 20px;
+    min-width: 60px;
+    color: #ffffff;
+    border-radius: 2px;
+    border-style: none;
+    background: #959595;
+}
+
+.entryButton:hover {
+    cursor: pointer;
+    background: #aaa;
+}
